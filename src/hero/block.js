@@ -36,7 +36,7 @@ registerBlockType( 'sanda/block-crd-hero', {
 	keywords: [
 		__( 'CRD Blocks' ),
 		__( 'CRD Hero' ),
-		__( 'create-guten-block' ),
+		__( 'CRD Hero Gutenberg Blocks' ),
 	],
 
     attributes: {
